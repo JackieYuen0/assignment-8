@@ -1,5 +1,2 @@
 # assignment-8
-Assignment title
-Short description of the assignment
-What files are included
-What you practiced or learned
+In assignment 8, I practiced using dictionaries to data aggregation functions to organize business data. Files include module09-assignment.py.
